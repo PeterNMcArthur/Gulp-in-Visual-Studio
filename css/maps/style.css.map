@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/_paragraph.scss"],"names":[],"mappings":"AAAM,GAAG,GAAG,CAAC,CAAL;EAAE,OAAO,EAAE,KAAM,GAAhB;;AAGP,GAAG,CAAC,CAAC,CAAH;EACA,OAAO,EAAC,KAAM,GADb","file":"style.css","sourcesContent":["div > a { display: block; }\r\n\r\ndiv {\r\n\t\ta {\r\n\t\t\t\tdisplay:block;\r\n\t\t}\r\n}\r\n"],"sourceRoot":"/source/"}
