@@ -1,7 +1,6 @@
 {
   "name": "webSite1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,16 @@
     "gulp-livereload": "^3.8.0",
     "gulp-sass": "^2.0.1",
     "gulp-sourcemaps": "^1.5.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterNMcArthur/Gulp-in-Visual-Studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterNMcArthur/Gulp-in-Visual-Studio/issues"
+  },
+  "homepage": "https://github.com/PeterNMcArthur/Gulp-in-Visual-Studio"
 }

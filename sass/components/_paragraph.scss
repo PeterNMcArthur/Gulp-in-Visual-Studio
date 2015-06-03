@@ -1,0 +1,11 @@
+﻿div > p {
+  color:blue; 
+}
+.after {
+  &::after {
+    content: "";
+    display:block;
+    width:20px;
+    height:20px;
+  }
+}

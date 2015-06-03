@@ -1,7 +1,10 @@
-div > a {
-  display: block; }
+div > p {
+  color: blue; }
 
-div a {
-  display: block; }
+.after::after {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px; }
 
 /*# sourceMappingURL=maps/style.css.map */
